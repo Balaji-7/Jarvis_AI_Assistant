@@ -1,0 +1,10 @@
+Flask
+openai>=1.0.0
+python-dotenv
+SpeechRecognition
+pyttsx3
+pytz
+gTTS
+requests
+pyaudio         
+wikipedia      
