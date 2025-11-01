@@ -5,7 +5,6 @@ waitress
 gTTS>=2.5.0
 SpeechRecognition>=3.10.0
 pyttsx3>=2.90
-pyaudio
 wikipedia>=1.4.0
 pytz>=2025.1
 requests>=2.31.0
