@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+
+# ---- Environment Variables ----
+.env
+
+# ---- OS / Editor Files ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ---- Audio or Cache Files ----
+*.mp3
+*.wav
+*.tmp
